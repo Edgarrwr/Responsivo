@@ -1,0 +1,295 @@
+
+@media(min-width: 998px)
+
+	#container{
+		width: 998px;
+
+	}
+
+	#menu1{
+		background: url(img/fundo.jpg) ;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		height: 500px;
+	}
+
+    #menu1 a{
+		text-decoration-line: none ;
+		font-size: 15px;
+		margin: 0 auto;
+		color: #fff;
+		margin: 5px;
+	}
+
+#aps{
+	color: #ffffff;
+	font-size: 35px;
+	width: 35%;
+	padding-left: 5%;
+	margin-top: 10%;
+}
+
+	ul li{
+		margin: 0 auto;
+	}
+
+	.lateral{
+		float: left;
+		width: 25%;
+		padding: 10px;
+		color: white;
+
+	}
+	.lateral h6{
+		margin: 5px 5px 5px 105px;
+		text-align: center;
+		border: 2px solid #ffffff;
+		border-radius: 25px;
+	}
+
+	.lateral img{
+		width: 75%;
+		height: 20%;
+		float: left;
+		padding: 10px;
+		margin: 5px 5px 5px 100px;
+		border-top-right-radius: 40%;
+		border-bottom-left-radius: 40%;
+		
+
+		
+			}
+
+	.lateral img:hover{
+		box-shadow: 7px 4px 4px 0 red;
+	}
+		
+
+	}
+
+	#conteudo{
+		width: 50%;
+		float: right;
+		color: #ffffff;
+		margin: 5%;
+		
+
+	}
+  
+
+	footer{
+		clear: both;
+		height: 300px;
+		background: url(img/fundo2.png);
+		background-repeat: no-repeat;
+		background-size: 100%;
+		text-align: center;
+		
+	}
+
+	footer h3{
+		font-size: 25px;
+		margin: 5px;
+		padding-top: 13%;
+		color: white;
+	}
+
+		}
+
+
+
+		/*Medium devices(tables)*/
+@media(min-width: 768px) and (max-width: 997px){
+	#container{
+		width: 768px;
+
+	}
+
+	#menu1{
+		background: url(img/fundo.jpg) ;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		height: 500px;
+	}
+
+    #menu1 a{
+		text-decoration-line: none ;
+		font-size: 15px;
+		margin: 0 auto;
+		color: #fff;
+		margin: 5px;
+	}
+
+#aps{
+	color: #ffffff;
+	font-size: 35px;
+	width: 35%;
+	padding-left: 5%;
+	margin-top: 10%;
+}
+
+	ul li{
+		margin: 0 auto;
+	}
+
+	.lateral{
+		float: left;
+		width: 25%;
+		padding: 10px;
+		color: white;
+
+	}
+	.lateral h6{
+		margin: 5px 5px 5px 105px;
+		text-align: center;
+		border: 2px solid #ffffff;
+		border-radius: 25px;
+	}
+
+	.lateral img{
+		width: 75%;
+		height: 20%;
+		float: left;
+		padding: 10px;
+		margin: 5px 5px 5px 100px;
+		border-top-right-radius: 40%;
+		border-bottom-left-radius: 40%;
+		
+
+		
+			}
+
+	.lateral img:hover{
+		box-shadow: 7px 4px 4px 0 red;
+	}
+		
+
+	}
+
+	#conteudo{
+		width: 50%;
+		float: right;
+		color: #ffffff;
+		margin: 5%;
+		
+
+	}
+  
+
+	footer{
+		clear: both;
+		height: 300px;
+		background: url(img/fundo2.png);
+		background-repeat: no-repeat;
+		background-size: 100%;
+		text-align: center;
+		
+	}
+
+	footer h3{
+		font-size: 25px;
+		margin: 5px;
+		padding-top: 13%;
+		color: white;
+	}
+
+		}
+
+/*extra larger devices(larger desltops)*/
+@media(min-width: 1200px){
+
+	
+	#container{
+		width: 1349px;
+
+	}
+
+	#menu1{
+		background: url(img/fundo.jpg) ;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		height: 500px;
+	}
+
+    #menu1 a{
+		text-decoration-line: none ;
+		font-size: 15px;
+		margin: 0 auto;
+		color: #fff;
+		margin: 5px;
+	}
+
+#aps{
+	color: #ffffff;
+	font-size: 35px;
+	width: 35%;
+	padding-left: 5%;
+	margin-top: 10%;
+}
+
+	ul li{
+		margin: 0 auto;
+	}
+
+	.lateral{
+		float: left;
+		width: 25%;
+		padding: 10px;
+		color: white;
+
+	}
+	.lateral h6{
+		margin: 5px 5px 5px 105px;
+		text-align: center;
+		border: 2px solid #ffffff;
+		border-radius: 25px;
+	}
+
+	.lateral img{
+		width: 75%;
+		height: 20%;
+		float: left;
+		padding: 10px;
+		margin: 5px 5px 5px 100px;
+		border-top-right-radius: 40%;
+		border-bottom-left-radius: 40%;
+		
+
+		
+			}
+
+	.lateral img:hover{
+		box-shadow: 7px 4px 4px 0 red;
+	}
+		
+
+	}
+
+	#conteudo{
+		width: 50%;
+		float: right;
+		color: #ffffff;
+		margin: 5%;
+		
+
+	}
+  
+
+	footer{
+		clear: both;
+		height: 300px;
+		background: url(img/fundo2.png);
+		background-repeat: no-repeat;
+		background-size: 100%;
+		text-align: center;
+		
+	}
+
+	footer h3{
+		font-size: 25px;
+		margin: 5px;
+		padding-top: 13%;
+		color: white;
+	}
+
+		}
